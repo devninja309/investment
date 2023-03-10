@@ -14616,3 +14616,7 @@ input.cart-plus-minus-box {
 .product-title {
   border: 1px 0 1px 0 solid rgba(0, 0, 0, 0.1);
 }
+.property-glance {
+  color: #000 !important;
+  padding: 20px 0;
+}
