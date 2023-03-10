@@ -4663,7 +4663,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 .menu-icon > a {
   position: relative; }
   .menu-icon > a::before {
-    content: "\f067";
+    content: "";
     font-size: 8px;
     position: absolute;
     top: 50%;
@@ -14602,4 +14602,17 @@ input.cart-plus-minus-box {
 
 .site-logo img {
   max-width: 50% !important;
+}
+
+.glance {
+  display: flex;
+  align-items: center;
+}
+
+.glance div {
+  padding-right: 20px
+}
+
+.product-title {
+  border: 1px 0 1px 0 solid rgba(0, 0, 0, 0.1);
 }
