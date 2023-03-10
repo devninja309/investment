@@ -211,7 +211,7 @@ font-family: 'Poppins', sans-serif;
   /* Darken */
   --ltn__primary-color-3: #133236;
   /* Lighten */
-  --ltn__secondary-color: #FF5A3C;
+  --ltn__secondary-color: #baa25a;
   --ltn__secondary-color-2: #cb3421;
   /* Darken */
   --ltn__secondary-color-3: #fb412a;
@@ -240,7 +240,7 @@ font-family: 'Poppins', sans-serif;
   /* Black */
   --section-bg-5: #FFF2F0;
   /* White */
-  --section-bg-6: #0B2C3D;
+  --section-bg-6: #252460;
   /* Black */
   --section-bg-7: #282b38;
   /* Black */
@@ -14303,7 +14303,8 @@ input.cart-plus-minus-box {
     .footer-menu-widget-2-column .footer-menu:nth-child(odd) {
       padding-left: 0px; }
   .ltn__copyright-menu {
-    margin-top: 25px; } }
+    margin-top: 25px; } 
+  }
 
 /* ----------------------------------------------------
     END
