@@ -1647,7 +1647,7 @@ ul {
   z-index: -1; }
 
 .bg-overlay-theme-05:before {
-  background: rgba(229, 62, 41, 0.05); }
+  background: rgba(255, 255, 255, 0.05); }
 
 .bg-overlay-theme-10:before {
   background: rgba(229, 62, 41, 0.1); }
