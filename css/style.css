@@ -14619,3 +14619,121 @@ input.cart-plus-minus-box {
   color: #000 !important;
   padding: 20px 0;
 }
+.w-testimonial.style_1 {
+  border: 2px solid #B9A355 !important;
+  border-radius: 3px;
+}
+.w-testimonial .w-testimonial-text {
+  display: block;
+  font-size: 1.2em;
+  line-height: 1.56;
+  font-style: italic;
+}
+.w-testimonial-person-name {
+  font-weight: 600;
+}
+.w-testimonial-person-meta {
+  font-size: 0.9em;
+  margin-left: 8px;
+  color: #999999;
+}
+.testimonial .col-lg-12 {
+  display: flex;
+  margin: 30px 0;
+}
+.testimonial .col-lg-12 .col-lg-6 {
+  margin: 0 20px;
+}
+
+.ytp-cued-thumbnail-overlay-image {
+
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+.ytp-large-play-button {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 68px;
+  height: 48px;
+  margin-left: -34px;
+  margin-top: -24px;
+  -webkit-transition: opacity .25s cubic-bezier(0,0,.2,1);
+  -o-transition: opacity .25s cubic-bezier(0,0,.2,1);
+  transition: opacity .25s cubic-bezier(0,0,.2,1);
+  z-index: 63;
+}
+.ytp-button {
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  color: inherit;
+  text-align: inherit;
+  font-size: 100%;
+  font-family: inherit;
+  cursor: pointer;
+  line-height: inherit;
+}
+.html5-video-player a {
+  color: inherit;
+  text-decoration: none;
+  -webkit-transition: color .1s cubic-bezier(0,0,.2,1);
+  -o-transition: color .1s cubic-bezier(0,0,.2,1);
+  transition: color .1s cubic-bezier(0,0,.2,1);
+  outline: 0;
+}
+
+.ytp-impression-link {
+  background: rgba(23,23,23,.8);
+  -webkit-border-bottom-right-radius: 2px;
+  -moz-border-radius-bottomright: 2px;
+  border-bottom-right-radius: 2px;
+  -webkit-border-top-right-radius: 2px;
+  -moz-border-radius-topright: 2px;
+  border-top-right-radius: 2px;
+  bottom: 5px;
+  height: 47px;
+  position: absolute;
+}
+.ytp-impression-link-content {
+  margin-top: 16px;
+}
+.ytp-impression-link-text {
+  color: white;
+  float: left;
+  font: 500 16px/16px "YouTube Noto",Roboto,Arial,Helvetica,sans-serif;
+  margin-left: 12px;
+}
+.ytp-impression-link-logo {
+  float: right;
+  height: 16px;
+  margin-left: 9px;
+  margin-right: 12px;
+  width: 72px;
+}
+
+.ytp-impression-link-logo svg {
+  pointer-events: none;
+}
+.ytp-impression-link-logo svg {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: 0;
+  outline: 0;
+  font-family: "YouTube Noto",Roboto,Arial,Helvetica,sans-serif;
+  color: #eee;
+  text-align: left;
+  direction: ltr;
+  font-size: 11px;
+  line-height: 1.3;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  -ms-high-contrast-adjust: none;
+}
